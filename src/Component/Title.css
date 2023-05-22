@@ -1,0 +1,23 @@
+
+
+.title__container{
+    color: #0008C1;
+    /* max-width: 1000px;
+    margin: 0 auto; */
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    font-weight: 900;
+    margin-top: 50px; 
+}
+
+h2{
+    text-align: center;
+    color:#EB455F;
+    font-size: 30px;
+}
+
+p{
+    text-align: center;
+}
